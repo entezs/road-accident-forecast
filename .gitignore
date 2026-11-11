@@ -5,3 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .DS_Store
+
+# ไฟล์ดิบ UK STATS19 (~255 MB) โหลดใหม่ได้จาก notebook uk_severity_factors
+data/stats19/
